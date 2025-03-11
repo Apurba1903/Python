@@ -1,1 +1,3 @@
-{'Name': 'Apurba', 'Age': 25, 'Sex': 'Male'}
+Hello
+My name is Apurba
+I am learning Python
